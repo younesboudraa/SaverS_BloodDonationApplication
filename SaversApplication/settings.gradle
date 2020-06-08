@@ -1,0 +1,2 @@
+rootProject.name='SaversApplication'
+include ':app'
